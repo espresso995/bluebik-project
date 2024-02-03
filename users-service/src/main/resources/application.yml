@@ -1,0 +1,9 @@
+# mongodb properties
+mongo:
+  host: localhost
+  port: 27017
+  username: trungnguyen
+  password: password
+  database: customer-service
+  authentication:
+    database: admin
